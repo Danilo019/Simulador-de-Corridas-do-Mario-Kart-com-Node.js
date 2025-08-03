@@ -1,0 +1,32 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "1.0.0",
+  "description": "Simulador de corridas inspirado em Mario Kart para terminal,inspirado no projeto do bootcamp da Dio, com professor Felipe",
+  "main": "index.js",
+  "bin": {
+    "mario-kart": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mario-kart",
+    "racing",
+    "simulator",
+    "terminal",
+    "game",
+    "nodejs"
+  ],
+  "author": "Danilo Teodoro",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
