@@ -241,9 +241,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
   <tr>
     <td>
         <p align="center">Focado</p>
-        <a href="https://github.com/felipeAguiarCode">
+        <a href="https://github.com/Danilo019">
         <img src="https://avatars.githubusercontent.com/u/105023718?v=4" alt="@felipeAguiarCode"><br>
-        <sub>@dinnooboy</sub>
+        <sub>@Danilo019</sub>
       </a>
     </td>
     <td colspan="3">
